@@ -1,0 +1,18 @@
+ou are tasked with selecting a database for a new social platform application that will support millions of users. The requirements are as follows:
+
+- Data Types: The database must effectively store user profiles, posts, and connections between users.
+- Read/Write Operations: The application will have an expected workload of 80% read operations and 20% write operations, necessitating high data read speeds.
+- Scalability: The database must be able to scale efficiently as the user base grows.
+Please analyze these requirements step-by-step and apply chain-of-thought reasoning to justify your choice of database.
+
+Your response should include:
+
+- Requirement Analysis: Discuss each requirement and its implications for database selection.
+- Database Options: Identify potential database types (e.g., SQL vs. NoSQL) and specific databases (e.g., PostgreSQL, MongoDB, Cassandra).
+- Pros and Cons: For each option, provide a clear set of pros and cons related to the requirements.
+- Scoring and Comparison: Use a scoring system (1-10) for how well each database meets each requirement, and summarize these scores.
+- Final Recommendation: Present a ranked list of the databases based on the total scores, along with a detailed justification for your top choice.
+- Consider Alternatives: Briefly discuss any alternative or hybrid solutions that might be applicable.
+- Summary: Conclude with a brief summary of your findings and recommendation.
+
+Ensure your reasoning is clear and structured, showing how each aspect of the requirements influenced your decision-making process.
