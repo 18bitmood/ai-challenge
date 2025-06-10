@@ -1,0 +1,12 @@
+Please convert the following informal bug report into a structured bug ticket using the specified format.
+The bug report is:
+"Logout button doesn’t work on Safari. It just doesn’t respond."
+
+Output Format:
+
+Title:
+Description:
+Steps to Reproduce:
+Expected vs Actual Behavior:
+Environment (if known):
+Severity or Impact:
